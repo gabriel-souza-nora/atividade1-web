@@ -22,7 +22,7 @@ Atividade1/
 ## 🚀 Como Executar o Projeto
 1. Clone o repositório:
    ```sh
-   git clone [URL_DO_REPOSITORIO]
+   git clone https://github.com/gabriel-souza-nora/atividade1-web.git
    ```
 2. Importe o projeto no Eclipse.
 3. Configure o **WildFly** como servidor no Eclipse.
